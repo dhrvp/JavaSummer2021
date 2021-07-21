@@ -17,7 +17,7 @@ public void isLampOn() {
 		System.out.println("The lamp is On");
 	else
 		System.out.println("The lamp is Off");
-	
+
 }
 }
 
